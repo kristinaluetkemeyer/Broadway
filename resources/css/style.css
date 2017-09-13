@@ -1,0 +1,52 @@
+/*styles that apply to all elements*/
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+/*page title*/
+div h1 {
+  font-size: 70px;
+}
+
+/*navigation text*/
+nav {
+  font-size: 18px;
+}
+
+/*header photo*/
+
+/*bold text*/
+h1, h3, #process {
+  font-weight: bold;
+}
+
+/*all elements with a white color*/
+h1, nav, #design, #footer {
+  color:white;
+}
+
+/*sizing section headings*/
+.section h3 {
+  font-size: 23px;
+}
+
+/*sizing section content*/
+.section p {
+    font-size: 14px;
+}
+
+/*sizing design location*/
+#design {
+  font-size: 23px;
+}
+
+/*footer & copyright element at bottom*/
+
+
+/*footer & copyright element at bottom*/
+#footer{
+  text-align: left;
+  font-size: 11px;
+  background-color: dim-gray;
+}
